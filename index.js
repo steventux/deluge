@@ -1,6 +1,5 @@
 (function () {
     'use strict';
-    var fs = require('fs');
     var path = require('path');
     var restler = require('restler');
     var validUrl = require('valid-url');
